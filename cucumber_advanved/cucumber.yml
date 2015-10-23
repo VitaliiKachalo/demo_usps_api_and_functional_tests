@@ -1,5 +1,5 @@
 login: --tags @login --format html --out report.html --format pretty
-
+api: --tags @login --format html --out report.html --format pretty
 
 calculate_price: --tags @calculate_price --format html --out report.html --format pretty
 

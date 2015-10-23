@@ -18,5 +18,5 @@ After do |scenario|
     @browser.save_screenshot(screenshot_file)
     embed("#{screenshot_file}", 'image/png') #embed screenshot to our browser
   end
-  @browser.quit
+  @browser.quit if @browser !=nil
 end
