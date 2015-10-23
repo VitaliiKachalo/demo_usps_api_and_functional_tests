@@ -1,4 +1,4 @@
-# run tests, using my uniq appid: cucumber -t @api APPID=618731827c924ce651d49bc201f26c63
+# run tests, using my uniq appid: cucumber -t @api APPID=
 
 
 
